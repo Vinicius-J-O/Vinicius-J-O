@@ -130,7 +130,7 @@ Never stop learning ⭐
 <img src="https://img.shields.io/badge/GitHub-7F06F9?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="[https://linkedin.com/V](https://www.linkedin.com/in/vinicius-jesus-de-oliveira-718aa6370/)">
+<a href="https://www.linkedin.com/in/vinicius-jesus-de-oliveira-718aa6370/">
 <img src="https://img.shields.io/badge/Linkedin-7F06F9?style=for-the-badge&logo=linkedin"/>
 </a>
 

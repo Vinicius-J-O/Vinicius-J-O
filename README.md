@@ -126,12 +126,12 @@ Never stop learning ⭐
 
 <div align="center">
 
-<a href="https://github.com/LZGabriel1409">
+<a href="https://github.com/Vinicius-J-O">
 <img src="https://img.shields.io/badge/GitHub-7F06F9?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://instagram.com/lz_gabr1el">
-<img src="https://img.shields.io/badge/Instagram-7F06F9?style=for-the-badge&logo=instagram"/>
+<a href="[https://linkedin.com/V](https://www.linkedin.com/in/vinicius-jesus-de-oliveira-718aa6370/)">
+<img src="https://img.shields.io/badge/Linkedin-7F06F9?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>

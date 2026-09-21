@@ -84,18 +84,6 @@ const Vini = {
 
 ---
 
-## 🚀 Featured Projects
-
-| 🚀 Project | 💡 Description |
-|---|---|
-| ⚡ TimeSync | Daily planner |
-| ☀️ Sunnyside | Modern Landing Page |
-| 🎵 ProjetoMusic | Music Experience |
-| 🌻 SolarBeam | Smart plant irrigation |
-| 🐧 SiteLinux | Educational Website |
-| 🌍 ImperioRomano | Educational Website |
-
----
 
 ## 🧠 Current Mission
 
